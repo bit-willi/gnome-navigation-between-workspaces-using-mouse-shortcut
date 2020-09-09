@@ -1,0 +1,2 @@
+#!/bin/bash 
+xdotool set_desktop $(($(xdotool get_desktop)-1)) > /dev/null;

@@ -1,6 +1,10 @@
 #!/bin/bash
 echo 'installing xbindkeys...';
-sudo apt install xbindkeys > /dev/null
+sudo apt install xbindkeys -y > /dev/null
+echo 'installed...';
+
+echo 'installing xdotool...';
+sudo apt install xdotool -y > /dev/null
 echo 'installed...';
 
 echo 'saving navigation shortcuts between workspaces on /usr/bin...';

@@ -5,6 +5,8 @@
 
 > xbindkeys
 
+> xdotool
+
 ## tested on
 > ubuntu 20.04
 

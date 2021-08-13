@@ -8,9 +8,8 @@
 > xdotool
 
 ## tested on
-> ubuntu 20.04
-
-> Gnome 3.36
+> Ubuntu 20.04 - Gnome 3.36  
+> Pop!_OS 21.04 - Gnome 3.38.5
 
 With these small scripts, it is possible to navigate between gnome workspaces using the combination of keyboard and mouse.
 
